@@ -1,4 +1,4 @@
-#include "fonctionV2.h"
+#include "fonction.h"
 #include <locale.h>
 
 

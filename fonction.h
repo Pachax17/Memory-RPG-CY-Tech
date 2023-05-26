@@ -3,7 +3,7 @@
 const char *symbole_cache[TAILLE_ROWS][TAILLE_COLS];
 const char *symbole_case[TAILLE_ROWS][TAILLE_COLS];
 
-enum Type_Case plateau_cache[TAILLE_ROWS][TAILLE_COLS]; // remplacer 18 par la taille de Symnole_case
+enum Type_Case plateau_cache[TAILLE_ROWS][TAILLE_COLS]; // remplacer 18 par la taille de Symbole_case
 enum Type_Case plateau_ouvert[TAILLE_ROWS][TAILLE_COLS];
                          
 

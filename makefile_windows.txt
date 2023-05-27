@@ -1,1 +1,20 @@
+CC = gcc
+CFLAGS = -Wall -Wextra -pedantic
+
+SRCS = main.c fonctionV2.h header.h
+OBJS = $(SRCS:.c=.o)
+TARGET = myprogram.exe
+
+.PHONY: all clean
+
+all: $(TARGET)
+
+$(TARGET): $(OBJS)
+	$(CC) $(CFLAGS) $^ -o $@
+
+%.o: %.c
+	$(CC) $(CFLAGS) -c $< -o $@
+
+clean:
+	del /F $(OBJS) $(TARGET)
 

@@ -119,5 +119,6 @@ La disposition aléatoire des cartes sur les cases et leur quantité a égalemen
 Licence
 Le jeu n'a pas été publié sous une licence spécifique.
 
-Remarques
+Remarques:
+
 Veuillez noter que cette version de notre jeu CY-MEMORY-RPG en langage C peut contenir des bugs ou des limitations. Si vous rencontrez des problèmes ou avez des suggestions pour améliorer le jeu, n'hésitez pas à nous les signaler. Nous apprécions vos commentaires et vous remercions de vos retour, nous  travaillerons à améliorer votre expérience de jeu.

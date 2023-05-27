@@ -63,7 +63,9 @@ Utilisez les touches z, q, s et d pour vous déplacer dans les différentes dire
 Fonctionnalités du jeu
 Jeu multijoueur seulement.
 4 différentes classes de personnages : guerrier, ranger, magicien, voleur.
-Cases spéciales avec des effets uniques, comme des portails de téléportation ou des totems de transmutation.
+Cases spéciales avec des effets uniques, comme des portails de téléportation qui permettent de se téléporter sur une autre
+case du plateau au choix ou des totems de transmutation qui permettent d'intervertir la case totem avec une case non révélé chosie
+par le joueur.
 Armes antiques correspondant à chaque classe de joueur, nécessaires pour remporter la victoire.
 Différents types de monstres avec des faiblesses face à certaines armes.
 Gestion de la mort des joueurs, avec un retour au point de départ.

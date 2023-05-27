@@ -35,16 +35,24 @@ Compilez le jeu en utilisant la commande suivante :
 gcc main.c -o jeu
 
 Configuration requise
+
 Système d'exploitation : Windows, macOS, Linux
+
 Compilateur C compatible, comme GCC
 
 Bibliothèques externes utilisées
 stdio.h
+
 stdlib.h
+
 string.h
+
 time.h (pour le suivi de la durée du jeu en temps réel)
+
 stdbool.h
+
 unistd.h
+
 Étapes spéciales à suivre
 Choisissez le nombre de joueurs.
 Entrez le pseudo de chaque joueur.

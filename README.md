@@ -9,7 +9,7 @@ Table des matières:
 6)Contrôles du jeu
 7)Fonctionnalités du jeu
 8)Problèmes connus rencontrés
-9)Licence
+9)Licence/n
 10)Remarques
 
 Description du projet

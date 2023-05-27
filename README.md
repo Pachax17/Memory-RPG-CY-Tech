@@ -49,6 +49,28 @@ Gestion de la mort des joueurs, avec un retour au point de départ.
 Apparition aléatoire des joueurs à l'extérieur du tableau.
 Chronométrage de la durée du jeu en temps réel.
 
+
+Différents symboles et leur signification:
+▩ signifie qu'une case n'est pas révélée
+le - signifie que la case ne fait pas partie du jeu est n'est pas utilisable
+la lettre "Z" représente la case Zombie
+la lettre "T" représente la case Troll
+la lettre "H" représente la case harpie
+la lettre "B" représente la case basilic
+la lettre "C" représente la case coffre
+la lettre "0" représente la case  du portail de teleportation
+la lettre "t" représente la carte totem de transmutation
+la lettre "e" représente l'arme épée
+la lettre "b" représente l'arme baton
+la lettre "g" représente l'arme grimoire
+la lettre "d" représente l'arme dague
+le symbole "♣" représente la classe guerrier
+le symbole "♦" représente la classe  ranger
+le symbole "♥" représente la classe magicien
+le symbole "♠" représente la classe voleur
+
+
+
 Problèmes connus rencontrés durant la programmation du jeu CY-MEMORY
 La création du plateau de jeu a été complexe en raison de l'aspect face cachée des cases. La mise en place de pointeurs a été nécessaire pour gérer cette particularité.
 L'apparition des joueurs à l'extérieur du tableau a posé des difficultés, car un simple tableau 5x5 ne convenait pas à cette fonctionnalité.

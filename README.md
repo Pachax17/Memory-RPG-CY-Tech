@@ -116,7 +116,7 @@ L'apparition des joueurs à l'extérieur du tableau a posé des difficultés, ca
 La gestion du chronométrage en temps réel a été un défi, mais a été résolue pour afficher la durée du jeu à l'écran.
 La disposition aléatoire des cartes sur les cases et leur quantité a également été un problème rencontré.
 
-Licence
+Licence:
 Le jeu n'a pas été publié sous une licence spécifique.
 
 Remarques:

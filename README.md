@@ -5,25 +5,25 @@ CY-MEMORY-RPG
  
 Table des matières:
 
--1)Description du projet
+1)Description du projet
 
--2)Instructions d'installation pour différents systèmes d'exploitation
+2)Instructions d'installation pour différents systèmes d'exploitation
 
--3)Configuration requise
+3)Configuration requise
 
--4)Bibliothèques externes utilisées
+4)Bibliothèques externes utilisées
 
--5)Étapes spéciales à suivre
+5)Étapes spéciales à suivre
 
--6)Contrôles du jeu
+6)Contrôles du jeu
 
--7)Fonctionnalités du jeu
+7)Fonctionnalités du jeu
 
--8)Problèmes connus rencontrés
+8)Problèmes connus rencontrés
 
--9)Licence/n
+9)Licence/n
 
--10)Remarques
+10)Remarques
 
 Description du projet
 CY-MEMORY-RPG est un jeu de rôle de type tour par tour sur plateau se déroulant dans un labyrinthe. Le jeu permet de jouer de 2 à 4 joueurs, chacun possédant une classe différente. Le but du jeu est de se déplacer sur le plateau, affronter les monstres et trouver un coffre au trésor et une arme antique spécifique à chaque classe. Le joueur qui trouve son arme antique et un coffre au trésor remporte la victoire.

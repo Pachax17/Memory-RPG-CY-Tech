@@ -67,7 +67,7 @@ la lettre "C" représente la case coffre
 
 la lettre "0" représente la case  du portail de teleportation
 
-la lettre "t" représente la carte totem de transmutation
+la lettre "t" représente la case totem de transmutation
 
 la lettre "e" représente l'arme épée
 

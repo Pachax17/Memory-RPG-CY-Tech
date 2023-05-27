@@ -1,15 +1,25 @@
 #
 CY-MEMORY-RPG - Fiche README
 Table des matières:
+
 1)Description du projet
+
 2)Instructions d'installation pour différents systèmes d'exploitation
+
 3)Configuration requise
+
 4)Bibliothèques externes utilisées
+
 5)Étapes spéciales à suivre
+
 6)Contrôles du jeu
+
 7)Fonctionnalités du jeu
+
 8)Problèmes connus rencontrés
+
 9)Licence/n
+
 10)Remarques
 
 Description du projet
